@@ -2,3 +2,5 @@
  Creating a website
 
 Hello World!
+<style>
+    {background image: }
